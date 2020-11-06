@@ -1,0 +1,2 @@
+variable "bucket_names" {
+}
